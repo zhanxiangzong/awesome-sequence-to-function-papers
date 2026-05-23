@@ -12,6 +12,8 @@ Sequence-to-function models have become a major research focus in AI4Bio in rece
 
 ## Table of Contents
 
+Coverage note: papers in `S2F-For-Plant` are recorded through online publication dates up to 2026-03-18; papers in the other sections are recorded through online publication dates up to 2025-08-25.
+
 - [S2F-For-Plant (123)](#s2f-for-plant-123)
 - [S2F-Review (54)](#s2f-review-54)
 - [S2F-OneHot-Model (106)](#s2f-onehot-model-106)
@@ -21,24 +23,23 @@ Sequence-to-function models have become a major research focus in AI4Bio in rece
 
 ## TODO
 
-Upcoming sections:
+Add upcoming sections:
 
-- Evaluation and Benchmarking
-- Regulatory sequences and their design
-- Guidance and Toolkit
-- S+X 2F Models
+- [ ] Evaluation and Benchmarking
+- [ ] Regulatory sequences and their design
+- [ ] Guidance and Toolkit
+- [ ] S+X 2F Models
 
-Total entries: 690
+Maintenance tasks:
+
+- [ ] Catch up with recent publications (target: <=2 months from online date)
+- [ ] Add citation counts and GitHub repository information for papers
 
 ## S2F-For-Plant (123)
 
 <details>
 <summary>Show S2F-For-Plant papers (123)</summary>
 
-
-### Plant Model Details
-
-A model-level supplementary table for plant S2F studies is available in [S2F_Plant_Model_Details.md](S2F_Plant_Model_Details.md).
 
 | Year | Paper | Venue | Note |
 | --- | --- | --- | --- |
