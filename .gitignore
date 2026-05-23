@@ -1,0 +1,8 @@
+# Raw bibliography exports and working tables
+*.csv
+*.txt
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+
