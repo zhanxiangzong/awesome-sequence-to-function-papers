@@ -14,12 +14,14 @@ Sequence-to-function models have become a major research focus in AI4Bio in rece
 
 Coverage note: papers in `S2F-For-Plant` are recorded through online publication dates up to 2026-03-18; papers in the other sections are recorded through online publication dates up to 2025-08-25.
 
-- [S2F-For-Plant (123)](#s2f-for-plant-123)
-- [S2F-Review (54)](#s2f-review-54)
-- [S2F-OneHot-Model (106)](#s2f-onehot-model-106)
-- [S2F-Other-Model (154)](#s2f-other-model-154)
-- [S2F-Model-Interpretation (61)](#s2f-model-interpretation-61)
-- [S2F-Application (192)](#s2f-application-192)
+| Section | Description |
+| --- | --- |
+| [S2F-For-Plant (123)](#s2f-for-plant-123) | Plant S2F models and/or applications of general S2F models in plant studies. |
+| [S2F-Review (54)](#s2f-review-54) | Review articles on sequence-to-function topics. |
+| [S2F-OneHot-Model (106)](#s2f-onehot-model-106) | Method papers using one-hot encoded input sequences. |
+| [S2F-Other-Model (154)](#s2f-other-model-154) | Method papers using other sequence encoding strategies. |
+| [S2F-Model-Interpretation (61)](#s2f-model-interpretation-61) | Interpretability methods for S2F models. |
+| [S2F-Application (192)](#s2f-application-192) | Biological applications of S2F models, typically studies using existing models to answer biological questions. |
 
 ## TODO
 
