@@ -7,8 +7,13 @@ Hand-picked research papers on sequence-to-function modeling and applications.
 ![Last Update](https://img.shields.io/badge/Last%20update-May%202026-yellowgreen)
 ![S2F](https://img.shields.io/badge/S2F-Sequence--to--Function-brightgreen)
 ![Plant S2F](https://img.shields.io/badge/Plant%20S2F-123-blue)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Sequence-to-function models have become a major research focus in AI4Bio in recent years. This repository organizes papers related to S2F models into categories such as reviews, methods, and applications, with plant-focused studies listed separately. The plant-focused section is based on the review paper **“Exploring the Oasis of Plant Genomes: From Genetic Variations to Function and Beyond”** ([DOI](https://doi.org/10.1016/j.molp.2026.05.014)).
+
+## License
+
+This repository is licensed under [CC-BY-4.0](LICENSE). 
 
 ## Table of Contents
 

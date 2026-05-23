@@ -40,16 +40,6 @@ For `S2F-OneHot-Model` and `S2F-Other-Model`, use the list format already shown 
   </details>
 ```
 
-## Plant Model Details
-
-If you add or update plant model metadata, edit `S2F_Plant_Model_Details.md` directly. Keep the table compact and GitHub-readable.
-
-Recommended fields:
-
-```md
-| Year | Model | Purpose | Object | Input | Encoding | Architecture | Output | Web | Type | Reference |
-```
-
 ## Requirements
 
 - Add papers that are directly relevant to sequence-to-function modeling or applications.
@@ -76,7 +66,6 @@ Use a clear title such as:
 ```text
 Add paper: Paper Title
 Update section: S2F-For-Plant
-Fix metadata: S2F_Plant_Model_Details
 ```
 
 ## Before Submitting
