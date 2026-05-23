@@ -1,6 +1,14 @@
 # Awesome Sequence-to-Function Papers
 
-A curated collection of sequence-to-function (S2F) papers, covering model architectures, interpretation methods, biological applications, reviews, and plant-focused studies.
+Hand-picked research papers on sequence-to-function modeling and applications.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Research Papers](https://img.shields.io/badge/Research%20Papers-690%2B-red)
+![Last Update](https://img.shields.io/badge/Last%20update-May%202026-yellowgreen)
+![S2F](https://img.shields.io/badge/S2F-Sequence--to--Function-brightgreen)
+![Plant S2F](https://img.shields.io/badge/Plant%20S2F-123-blue)
+
+Sequence-to-function models have become a major research focus in AI4Bio in recent years. This repository organizes papers related to S2F models into categories such as reviews, methods, and applications, with plant-focused studies listed separately. The plant-focused section is based on the review paper **“Exploring the Oasis of Plant Genomes: From Genetic Variations to Function and Beyond”** ([DOI](https://doi.org/10.1016/j.molp.2026.05.014)).
 
 ## Table of Contents
 
@@ -11,14 +19,26 @@ A curated collection of sequence-to-function (S2F) papers, covering model archit
 - [S2F-Model-Interpretation (61)](#s2f-model-interpretation-61)
 - [S2F-Application (192)](#s2f-application-192)
 
+## TODO
+
+Upcoming sections:
+
+- Evaluation and Benchmarking
+- Regulatory sequences and their design
+- Guidance and Toolkit
+- S+X 2F Models
+
 Total entries: 690
 
 ## S2F-For-Plant (123)
 
+<details>
+<summary>Show S2F-For-Plant papers (123)</summary>
+
+
 ### Plant Model Details
 
 A model-level supplementary table for plant S2F studies is available in [S2F_Plant_Model_Details.md](S2F_Plant_Model_Details.md).
-
 
 | Year | Paper | Venue | Note |
 | --- | --- | --- | --- |
@@ -146,7 +166,12 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 | 2021 | [TSPTFBS: a Docker image for trans-species prediction of transcription factor binding sites in plants](https://academic.oup.com/bioinformatics/article/37/2/260/6069568) | Bioinformatics | The deep convolutional neural network (DeepCNN) is employed to build 265 Arabidopsis TFBS prediction models based on available DAP-seq (DNA affinity purification sequencing) datasets, and then transferred into homologous TFs in other plants to demonstrate t... |
 | 2019 | [Cis-Regulatory Code for Predicting Plant Cell-Type Transcriptional Response to High Salinity](https://academic.oup.com/plphys/article/181/4/1739-1751/6000542) | Plant Physiology | These findings not only advance the understanding of the regulatory mechanisms of the plant spatial transcriptional response through cis-regulatory codes but also suggest broad applicability of the approach to any species, particularly those with little or... |
 
+</details>
+
 ## S2F-Review (54)
+
+<details>
+<summary>Show S2F-Review papers (54)</summary>
 
 | Year | Paper | Venue | Note |
 | --- | --- | --- | --- |
@@ -205,7 +230,12 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 | 2019 | [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5) | Nature Genetics | A perspective and primer on deep learning applications for genome analysis and successful applications in the fields of regulatory genomics, variant calling and pathogenicity scores are provided. |
 | 2019 | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) | Nature Reviews Genetics | Different deep learning techniques and how they can be applied to extract biologically relevant information from large, complex genomic data sets are described. |
 
+</details>
+
 ## S2F-OneHot-Model (106)
+
+<details>
+<summary>Show S2F-OneHot-Model papers (106)</summary>
 
 - **[A deep learning framework for building INDEL mutation rate maps](http://biorxiv.org/lookup/doi/10.1101/2025.11.18.689146)** - 2025, bioRxiv
   - This work presents MuRaL-indel, a deep learning framework that predicts germline INDEL mutation rates by leveraging long-range sequence context through a U-Net architecture and establishes a generalizable and scalable framework for building high-resolution...
@@ -1371,7 +1401,12 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 
   </details>
 
+</details>
+
 ## S2F-Other-Model (154)
+
+<details>
+<summary>Show S2F-Other-Model papers (154)</summary>
 
 - **[A DNA language model based on multispecies alignment predicts the effects of genome-wide variants](https://www.nature.com/articles/s41587-024-02511-w)** - 2025, Nature Biotechnology
   - GPN-MSA (genomic pretrained network with multiple-sequence alignment), a framework that leverages whole-genome alignments across multiple species while taking only a few hours to train, achieves outstanding performance on deleteriousness prediction for both...
@@ -3053,7 +3088,12 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 
   </details>
 
+</details>
+
 ## S2F-Model-Interpretation (61)
+
+<details>
+<summary>Show S2F-Model-Interpretation papers (61)</summary>
 
 | Year | Paper | Venue | Note |
 | --- | --- | --- | --- |
@@ -3119,7 +3159,12 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 | 2017 | [A Unified Approach to Interpreting Model Predictions](https://doi.org/10.48550/arXiv.1705.07874) | NIPS | Understanding why a model makes a certain prediction can be as crucial as the prediction's accuracy in many applications. |
 | 2016 | [Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization](https://doi.org/10.48550/arXiv.1610.02391) | ICCV | We propose a technique for producing 'visual explanations' for decisions from a large class of Convolutional Neural Network (CNN)-based models, making them more transparent. |
 
+</details>
+
 ## S2F-Application (192)
+
+<details>
+<summary>Show S2F-Application papers (192)</summary>
 
 | Year | Paper | Venue | Note |
 | --- | --- | --- | --- |
@@ -3315,3 +3360,5 @@ A model-level supplementary table for plant S2F studies is available in [S2F_Pla
 | 2019 | [Whole-genome deep-learning analysis identifies contribution of noncoding mutations to autism risk](https://www.nature.com/articles/s41588-019-0420-0) | Nature Genetics |  |
 | 2018 | [Discovering epistatic feature interactions from neural network models of regulatory DNA sequences](https://academic.oup.com/bioinformatics/article/34/17/i629/5093210) | Bioinformatics | This work presents a new method called Deep Feature Interaction Maps (DFIM) to efficiently estimate interactions between all pairs of features in any input DNA sequence and makes significant strides in improving the interpretability of deep learning models... |
 | 2017 | [Deep learning of the regulatory grammar of yeast 5′ untranslated regions from 500,000 random sequences](http://genome.cshlp.org/lookup/doi/10.1101/gr.224964.117) | Genome Research | Our ability to predict protein expression from DNA sequence alone remains poor, reflecting our limited understanding of cis -regulatory grammar and hampering the design of engineered genes for synthetic biology applications. |
+
+</details>

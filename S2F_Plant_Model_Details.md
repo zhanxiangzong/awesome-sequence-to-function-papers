@@ -1,5 +1,7 @@
 # S2F Plant Model Details
 
+This table is based on Supplemental Table S5 of the review paper **“Exploring the Oasis of Plant Genomes: From Genetic Variations to Function and Beyond”** ([DOI](https://doi.org/10.1016/j.molp.2026.05.014)). It will be updated after a sufficient number of new relevant papers have accumulated.
+
 A GitHub-friendly supplementary table for plant sequence-to-function studies.
 
 Total entries: 81
